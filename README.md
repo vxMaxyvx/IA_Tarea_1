@@ -63,4 +63,4 @@ jupyter notebook Parte2.ipynb
 
 ## Declaración de uso de herramientas generativas
 
-Se utilizó Claude Opus 4.6 (Windsurf/Cascade) como apoyo en la generación de código base y estructura de los notebooks. También se utilizó Gemini para entender conceptos y resolver errores. **Todo el análisis e interpretación de resultados fue realizado por los estudiantes.**
+Se utilizó Claude Opus 4.6 como apoyo en la generación de código base y estructura de los notebooks. También se utilizó Gemini para entender conceptos y resolver errores. **Todo el análisis e interpretación de resultados fue realizado por los estudiantes.**
